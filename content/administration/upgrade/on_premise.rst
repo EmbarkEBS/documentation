@@ -2,7 +2,6 @@
 On-Premise
 ==========
 
-Test upgrade request
 ====================
 
 There are two ways to create your upgrade request.
